@@ -51,11 +51,11 @@ TKM dApp supports private deployment. Users can deploy and configure it on their
 - Open `http://localhost:9595` in your browser to access the dApp
 
 
-## Query LP USDT addition flow
+# Query LP USDT addition flow
 - Router Contract: [0x8d323f120E023dC622337361Ba4a724A84dD6644](https://bscscan.com/address/0x8d323f120E023dC622337361Ba4a724A84dD6644)
 
-- Query TKM token deflation flow
-
+# Query TKM token deflation flow
+[0x426803fB2B98734DDa8162091Fdeec8dF3fe1e4D](https://bscscan.com/token/0xa300C46A7c0D168D40fe3742cE8c0d4960a1211c?a=0x426803fb2b98734dda8162091fdeec8df3fe1e4d)
 ## TKM Contracts
 
 - TKM Token Contract: [0xa300C46A7c0D168D40fe3742cE8c0d4960a1211c](https://bscscan.com/token/0xa300C46A7c0D168D40fe3742cE8c0d4960a1211c)
