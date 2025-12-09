@@ -1,4 +1,11 @@
 ## TKM Token Security Check
+### Why perform contract security checks
+- Identify potential malicious features: blacklists, trading pause, block-kill, honeypots.
+- Check permissions and ownership: mintability, tax adjustability, critical parameter mutability.
+- Liquidity safety: lock ratio, burn address, whether LP is controlled or withdrawable.
+- Trading usability and cost: buy/sell tax rates, actual gas consumption, transaction success.
+- Compliance and transparency: publish contract addresses and check results to enhance credibility.
+- Risk alerts: use simulated trades and reports to detect anomalies early and avoid loss.
 - ave.ai: [https://ave.ai/token/0xa300c46a7c0d168d40fe3742ce8c0d4960a1211c-bsc?from=Home](https://ave.ai/token/0xa300c46a7c0d168d40fe3742ce8c0d4960a1211c-bsc?from=Home)
 - Pink official token checker: [https://t.me/Pink_ChaHeYue](https://t.me/Pink_ChaHeYue)
 
