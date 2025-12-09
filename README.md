@@ -52,6 +52,6 @@ HP: BUY_FAILED
 - Burn Address (PancakeSwap LP): [0x000000000000000000000000000000000000dEaD](https://bscscan.com/token/0x293ba369a5f8f483a65b943e7f8cdbc1b5befb90?a=0x000000000000000000000000000000000000dead)
 
 # TKM Dapp
-- Website: [https://dapp.tkmtoken.com](https://dapp.tkmtoken.com)
-- Telegram: [https://t.me/tkm_token](https://t.me/tkm_token)
-- Twitter: [https://x.com/tkm_token?s=21](https://x.com/tkm_token?s=21)
+- 🌐 Website: [https://dapp.tkmtoken.com](https://dapp.tkmtoken.com)
+- 📣 Telegram: [https://t.me/tkm_token](https://t.me/tkm_token)
+- 🐦 Twitter: [https://x.com/tkm_token?s=21](https://x.com/tkm_token?s=21)
