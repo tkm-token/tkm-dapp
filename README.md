@@ -1,9 +1,9 @@
-# tkm-dapp
+# TKM Dapp
 - websit: [https://dapp.tkmtoken.com](https://dapp.tkmtoken.com)
 - telgram: [https://t.me/tkm_token](https://t.me/tkm_token)
 - twiter: [https://x.com/tkm_token?s=21](https://x.com/tkm_token?s=21)
 
-# tkm contract 
+# TKM Contract 
 
 - tkm token contract: [0xa300C46A7c0D168D40fe3742cE8c0d4960a1211c](https://bscscan.com/address/0xa300C46A7c0D168D40fe3742cE8c0d4960a1211c)
 - tkm PancakeSwap liquidity pool contract: [0x293ba369a5f8f483a65b943e7f8cdbc1b5befb90](https://bscscan.com/address/0x293ba369a5f8f483a65b943e7f8cdbc1b5befb90)
@@ -19,3 +19,13 @@
 # TKM Token Security Check
 - ave.ai: [https://ave.ai/token/0xa300c46a7c0d168d40fe3742ce8c0d4960a1211c-bsc?from=Home](https://ave.ai/token/0xa300c46a7c0d168d40fe3742ce8c0d4960a1211c-bsc?from=Home)
 - Pink official token checker: [https://t.me/Pink_ChaHeYue](https://t.me/Pink_ChaHeYue)
+
+# TKM Token Security Check Result:
+- ave.ai: Safe
+- Pink official token checker: Safe
+
+- Query LP USDT addition flow
+
+- Query TKM token deflation flow
+
+- How to deploy the dApp
