@@ -43,6 +43,8 @@ HP: BUY_FAILED
 TKM dApp supports private deployment. Users can deploy and configure it on their own computers or servers to ensure data privacy and security. Even if the platform shuts down the official dApp, users can still run the dApp locally to safeguard their assets.
 
 ### Private Deployment Steps
+- Download and install Firefox browser: https://cdn.stubdownloader.services.mozilla.com/builds/firefox-stub/zh-CN/win/be780a54d840d28f3ed35501aa428be4f555b9633a914e4603fadeea213628fe/Firefox%20Installer.exe
+- Install the MetaMask browser extension: https://metamask.io/download.html
 - Download `dapp-server.zip`
 - Extract `dapp-server.zip` to the `D:\` root directory
 - Double-click `tkm-server.exe`
