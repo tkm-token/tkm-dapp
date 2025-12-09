@@ -21,7 +21,8 @@
 - Pink official token checker: [https://t.me/Pink_ChaHeYue](https://t.me/Pink_ChaHeYue)
 
 ## Security Check Results
-- ave.ai: Safe
+- ✅ ave.ai: ![Safe](https://img.shields.io/badge/Safe-brightgreen?style=flat-square)
+![ave.ai result](./ave.png)
 - ✅ Pink official token checker: ![Safe](https://img.shields.io/badge/Safe-brightgreen?style=flat-square)
 
 ### Pink Checker Details
