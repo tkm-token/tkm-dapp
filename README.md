@@ -12,4 +12,5 @@
 - tkm liquidity reward pool contract: [0xdf98a737776a233046a5719ceDE9700d043Fc103](https://bscscan.com/address/0xdf98a737776a233046a5719ceDE9700d043Fc103)
 - tkm staking reward pool contract: [0x06B2882Ff8f7685585f6f87E20e2043aF0B4c2b4](https://bscscan.com/address/0x06B2882Ff8f7685585f6f87E20e2043aF0B4c2b4)
 - tkm weekly/monthly ranking reward pool contract: [0x426803fB2B98734DDa8162091Fdeec8dF3fe1e4D](https://bscscan.com/address/0x426803fB2B98734DDa8162091Fdeec8dF3fe1e4D)
-- burn address: [0x000000000000000000000000000000000000dEaD](https://bscscan.com/address/0x000000000000000000000000000000000000dEaD)
+- burn tkm address: [0x000000000000000000000000000000000000dEaD](https://bscscan.com/token/0xa300C46A7c0D168D40fe3742cE8c0d4960a1211c?a=0x000000000000000000000000000000000000dead)
+- burn PancakeSwap liquidity pool address: [0x000000000000000000000000000000000000dEaD](https://bscscan.com/token/0x293ba369a5f8f483a65b943e7f8cdbc1b5befb90?a=0x000000000000000000000000000000000000dead)
