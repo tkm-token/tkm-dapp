@@ -22,8 +22,10 @@
 
 ## Security Check Results
 - ✅ ave.ai: ![Safe](https://img.shields.io/badge/Safe-brightgreen?style=flat-square)
-![ave.ai result](./ave.png)
 - ✅ Pink official token checker: ![Safe](https://img.shields.io/badge/Safe-brightgreen?style=flat-square)
+
+### AVE.AI Checker Details
+![ave.ai result](./ave.png)
 
 ### Pink Checker Details
 - Channels: [Telegram](https://t.me/Pink_ChaHeYue), [Btok](https://t.me/PinkClub_BTOK), [PinkBOT](https://t.me/ChaHeYuebot)
