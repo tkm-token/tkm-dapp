@@ -52,7 +52,11 @@ TKM dApp supports private deployment. Users can deploy and configure it on their
 
 
 # Query LP USDT addition flow
-- Router Contract: [0x8d323f120E023dC622337361Ba4a724A84dD6644](https://bscscan.com/address/0x8d323f120E023dC622337361Ba4a724A84dD6644)
+- Router Contract: [0xa6A8C7282CfaB3a5B5BAEE1737d7B5c7252Db434](https://bscscan.com/address/0xa6A8C7282CfaB3a5B5BAEE1737d7B5c7252Db434)
+
+# Query LP USDT addition flow(2)
+- Router Contract: [0x8700b5d3976016242fb10a002b0953e25394E52D](https://bscscan.com/address/0x8700b5d3976016242fb10a002b0953e25394E52D)
+
 
 # Query TKM token deflation flow
 Weekly/Monthly Ranking Reward Pool Contract:[0x426803fB2B98734DDa8162091Fdeec8dF3fe1e4D](https://bscscan.com/token/0xa300C46A7c0D168D40fe3742cE8c0d4960a1211c?a=0x426803fb2b98734dda8162091fdeec8df3fe1e4d)
